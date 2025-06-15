@@ -6,9 +6,3 @@
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/rohitsenindia/install-chromium-vps/main/install.sh)
-
-
-### Login
-👤 Username: admin
-
-🔑 Password: pass123
