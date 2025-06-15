@@ -24,7 +24,7 @@ services:
     security_opt:
       - seccomp:unconfined
     environment:
-      - CUSTOM_USER=askadmin
+      - CUSTOM_USER=admin
       - PASSWORD=pass123
       - PUID=1000
       - PGID=1000
