@@ -2,6 +2,11 @@
 
 📦 Install Chromium Browser in Docker on any headless Linux VPS in one command.
 
+👤 Username: admin
+
+🔑 Password: pass123
+
+
 ## 🚀 Quick Install
 
 ```bash
